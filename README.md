@@ -1,2 +1,2 @@
-# Poker
-poker game
+# Stud Poker
+stud poker game
